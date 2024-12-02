@@ -8,7 +8,7 @@ The dataset was obtained from Kaggle (Link: https://www.kaggle.com/datasets/aung
 
 ## Reports
 
-**Spanish** :
+**Spanish** : https://www.linkedin.com/pulse/an%C3%A1lisis-de-ventas-un-supermercado-karen-morales-montiel-oprwe/
 
 
-**English** :
+**English** : https://www.linkedin.com/pulse/supermarket-sales-analysis-karen-morales-montiel-tl2ve/
